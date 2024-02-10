@@ -37,10 +37,10 @@ Creating Signup, Login, Update Page in react and store the data in database(Fire
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-satyajeet/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamragini/)
 
 
 ## Authors
 
-- [@the-satyajeet](https://github.com/the-satyajeet/)
+- [@iam-ragini](https://github.com/iam-ragini/)
 
